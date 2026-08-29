@@ -6,12 +6,16 @@
 //
 
 import SwiftUI
+import SwiftData
 
 @main
 struct MunectingApp: App {
+    private let container = AppContainer.live()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView(container: container)
         }
+        .modelContainer(container.modelContainer)
     }
 }
