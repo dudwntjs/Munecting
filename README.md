@@ -1,8 +1,12 @@
-# Munecting
+# <img width="21" height="21" alt="뮤넥팅 로고" src="https://github.com/user-attachments/assets/ecdc3c6c-5b7e-4ebe-b087-91c51c6b538b" />
+Munecting
 
-> 서로 다른 음악 플랫폼을 사용해도, 각자의 음악 앱에서 자연스럽게 이어 듣는 플레이리스트 공유 앱
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/1c548d7b-6042-4e4d-af61-d3ee09d462fc" />
 
-Munecting은 Apple Music, Spotify, YouTube Music 사용자가 플랫폼을 바꾸지 않고 플레이리스트를 주고받을 수 있도록 만든 iOS 앱입니다. 외부 음악 앱에서 공유한 플레이리스트를 하나의 공통 모델로 정리하고, 받은 사람은 자신이 사용하는 음악 플랫폼에서 곡을 열거나 새로운 플레이리스트로 만들 수 있습니다.
+> Munecting은 Apple Music, Spotify, YouTube Music 사용자가 플랫폼을 바꾸지 않고 플레이리스트를 주고받을 수 있도록 만든 iOS 앱입니다.
+> 
+> 외부 음악 앱에서 공유한 플레이리스트를 하나의 공통 모델로 정리하고, 
+> 받은 사람은 자신이 사용하는 음악 플랫폼에서 곡을 열거나 새로운 플레이리스트로 만들 수 있습니다.
 
 ## 주요 기능
 
@@ -36,6 +40,8 @@ Munecting은 Apple Music, Spotify, YouTube Music 사용자가 플랫폼을 바�
 4. **받기** — 받은 믹스는 홈에 저장되고 수록곡 목록을 확인할 수 있습니다.
 5. **이어 듣기** — 원하는 음악 플랫폼을 선택해 곡을 재생하거나 플레이리스트를 생성합니다.
 
+<img width="700" alt="2" src="https://github.com/user-attachments/assets/7851c722-6846-4f29-93e7-5a9b13586370" />
+
 ## 기술 스택
 
 | 영역 | 기술 |
@@ -48,6 +54,10 @@ Munecting은 Apple Music, Spotify, YouTube Music 사용자가 플랫폼을 바�
 | 앱 간 공유 | Share Extension, App Group, Uniform Type Identifiers |
 | 사용자 간 공유 | ShareLink, AirDrop, Custom URL Scheme |
 | 동시성 | Swift Concurrency |
+
+
+<img width="700" alt="3" src="https://github.com/user-attachments/assets/42e0d7ff-a9a6-487e-baf5-bf7ced617b0b" />
+
 
 ## 구조
 
