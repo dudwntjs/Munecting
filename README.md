@@ -1,6 +1,6 @@
-# <img width="21" height="21" alt="뮤넥팅 로고" src="https://github.com/user-attachments/assets/ecdc3c6c-5b7e-4ebe-b087-91c51c6b538b" /> Munecting
+# <img width="40" height="40" alt="뮤넥팅 로고" src="https://github.com/user-attachments/assets/ecdc3c6c-5b7e-4ebe-b087-91c51c6b538b" /> Munecting
 
-<img width="700" alt="1" src="https://github.com/user-attachments/assets/1c548d7b-6042-4e4d-af61-d3ee09d462fc" />
+<img width="1000" alt="1" src="https://github.com/user-attachments/assets/1c548d7b-6042-4e4d-af61-d3ee09d462fc" />
 
 > Munecting은 Apple Music, Spotify, YouTube Music 사용자가 플랫폼을 바꾸지 않고 플레이리스트를 주고받을 수 있도록 만든 iOS 앱입니다.
 > 
@@ -39,7 +39,7 @@
 4. **받기** — 받은 믹스는 홈에 저장되고 수록곡 목록을 확인할 수 있습니다.
 5. **이어 듣기** — 원하는 음악 플랫폼을 선택해 곡을 재생하거나 플레이리스트를 생성합니다.
 
-<img width="700" alt="2" src="https://github.com/user-attachments/assets/7851c722-6846-4f29-93e7-5a9b13586370" />
+<img width="1000" alt="2" src="https://github.com/user-attachments/assets/7851c722-6846-4f29-93e7-5a9b13586370" />
 
 ## 기술 스택
 
@@ -55,7 +55,7 @@
 | 동시성 | Swift Concurrency |
 
 
-<img width="700" alt="3" src="https://github.com/user-attachments/assets/42e0d7ff-a9a6-487e-baf5-bf7ced617b0b" />
+<img width="1000" alt="3" src="https://github.com/user-attachments/assets/42e0d7ff-a9a6-487e-baf5-bf7ced617b0b" />
 
 
 ## 구조
