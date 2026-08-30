@@ -1,5 +1,4 @@
-# <img width="21" height="21" alt="뮤넥팅 로고" src="https://github.com/user-attachments/assets/ecdc3c6c-5b7e-4ebe-b087-91c51c6b538b" />
-Munecting
+# <img width="21" height="21" alt="뮤넥팅 로고" src="https://github.com/user-attachments/assets/ecdc3c6c-5b7e-4ebe-b087-91c51c6b538b" /> Munecting
 
 <img width="700" alt="1" src="https://github.com/user-attachments/assets/1c548d7b-6042-4e4d-af61-d3ee09d462fc" />
 
