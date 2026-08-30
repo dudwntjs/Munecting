@@ -1,6 +1,8 @@
-# <img width="40" height="40" alt="뮤넥팅 로고" src="https://github.com/user-attachments/assets/ecdc3c6c-5b7e-4ebe-b087-91c51c6b538b" /> Munecting
+# <img width="35" height="35" alt="뮤넥팅 로고" src="https://github.com/user-attachments/assets/ecdc3c6c-5b7e-4ebe-b087-91c51c6b538b" /> Munecting
 
 <img width="1000" alt="1" src="https://github.com/user-attachments/assets/1c548d7b-6042-4e4d-af61-d3ee09d462fc" />
+
+
 
 > Munecting은 Apple Music, Spotify, YouTube Music 사용자가 플랫폼을 바꾸지 않고 플레이리스트를 주고받을 수 있도록 만든 iOS 앱입니다.
 > 
